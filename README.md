@@ -1,4 +1,5 @@
-# Qt Creator
+# Qt Creator 
+(Unibody edition)
 
 Qt Creator is a cross-platform IDE for development with the Qt framework.
 
