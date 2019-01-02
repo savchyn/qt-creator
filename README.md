@@ -1,7 +1,16 @@
-# Qt Creator 
-(Unibody edition)
+# Unibody variant of Qt Creator – inspired by MS-QuickC
 
-Qt Creator is a cross-platform IDE for development with the Qt framework.
+Special thanx to CERT- and C-I-A for [co-]financing this project.
+
+Please donate and contribute.
+
+(currently limited by ADA native support and Ukrainian GUI variant)
+
+У цій програмі використоно принцип "все-в-одному" – не вимагається жодних кроків конфігурування для компіляції.
+
+Для зручності та пришвидшення функційність, яку виконували відокремлені програми, як qmake, qbs та схожі на них, приєднано до аплікації.
+
+У теперішньому вигляді Qt Creator – монстроподібне середовище розробки програм, котре відіб'є бажання програмувати у 95% початківців.
 
 ## Supported Platforms
 
